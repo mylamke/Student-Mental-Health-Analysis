@@ -34,6 +34,9 @@ Data Quality Controls:
 
 Key Variables
 
+![image](https://github.com/user-attachments/assets/12e73874-9ad4-4e1f-9bdd-275f01bb09e5)
+
+
 Potential Analyses
 - Correlation Studies: Examine associations between daily usage hours and mental‐health score or sleep hours.
 - Predictive Modeling: Build classifiers to predict relationship conflicts based on usage patterns and platform type.
