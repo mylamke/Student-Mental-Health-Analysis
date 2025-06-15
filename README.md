@@ -7,7 +7,7 @@ I. Introduction
 
    
 3. Dataset
-
+ 
    2.1 Overview
    
 The Student Social Media & Relationships dataset contains anonymized records of students’ social‐media behaviors and related life outcomes. It spans multiple countries and academic levels, focusing on key dimensions such as usage intensity, platform preferences, and relationship dynamics. Each row represents one student’s survey response, offering a cross‐sectional snapshot suitable for statistical analysis and machine‐learning applications.
